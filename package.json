@@ -1,7 +1,7 @@
 {
   "name": "logsink4js",
-  "version": "0.0.2",
-  "description": "Interface class for generic and customizable Log feature in Javascript",
+  "version": "0.0.3",
+  "description": "Interface class for generic and custom Log in Javascript ES6",
   "main": "test.js",
   "readme": "README.md",
   "scripts": {
@@ -14,8 +14,8 @@
   "keywords": [
     "Interface class",
     "Log",
-    "Log Sink",,
-    "javascript es6"
+    "Log Sink",
+    "Javascript es6"
   ],
   "author": "Michel Kern",
   "license": "MIT",
