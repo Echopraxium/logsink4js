@@ -1,0 +1,29 @@
+{
+  "name": "logsink4js",
+  "version": "0.0.2",
+  "description": "Interface class for generic and customizable Log feature in Javascript",
+  "main": "test.js",
+  "readme": "README.md",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echopraxium/logsink4js"
+  },
+  "keywords": [
+    "Interface class",
+    "Log",
+    "Log Sink",,
+    "javascript es6"
+  ],
+  "author": "Michel Kern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Echopraxium/logsink4js/issues"
+  },
+  "homepage": "https://github.com/Echopraxium/logsink4js#readme",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
